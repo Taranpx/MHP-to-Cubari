@@ -5,7 +5,7 @@
     "author": "Tian Can Tudou",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108420-7DFIiAj9huXO.jpg",
     "chapters": {
-        "Chapter 1": {
+        "1": {
             "title": "",
             "volume": "",
             "groups": {
@@ -16,7 +16,7 @@
             },
             "last_updated": ""
         },
-        "Chapter 2": {
+        "2.5": {
             "title": "",
             "volume": "",
             "groups": {
