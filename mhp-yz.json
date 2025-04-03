@@ -1,19 +1,20 @@
 {
-	"title": "",
-	"description": "",
-	"artist": "",
-	"author": "",
-	"cover": "",
-	"chapters": {
-      "1": {
-        "title": "",
-        "volume": "",
-        "groups": {
-          "": [
-            ""
-          ]
-        },
-        "last_updated": ""
-      }
+    "title": "Yuan Zun",
+    "description": "He has only three years left, his cultivation meridians sealed, bloodline hunted down, homeland torn apart, and his fate—to be devoured by the sparrow and python. Unable to train like ordinary cultivators do, he picks up a brush and rewrites his destiny.",
+    "artist": "Dr. Daji",
+    "author": "Tian Can Tudou",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108420-7DFIiAj9huXO.jpg",
+    "chapters": {
+        "1": {
+            "title": "",
+            "volume": "",
+            "groups": {
+                "manhuaplus.com": [
+                    "https://manga347633868047.files.wordpress.com/2020/06/pic_001-5.jpg",
+                    "https://manga347633868047.files.wordpress.com/2020/06/pic_002-5.jpg"
+                ]
+            },
+            "last_updated": ""
+        }
     }
 }
